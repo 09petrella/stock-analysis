@@ -22,5 +22,5 @@ Overall there are many advantages on the refactoring technique when working with
 
 ### Refactored VBA Script
 In terms of our VBA script there is a clear advantage for the refactored script in this scenario. The screenshots below show that it takes to execute the program is now under a quarter of the time it took to complete the same output before we completed refactoring the code. This will allow Steve to increase the volume of securities in the datasheet for both years and the programs have been coded so they can be easily adjusted to process this information at an efficient speed. 
-![2017 Stock Analysis Timer](stock-analysis/Resources/VBA_Challenge_2017.png)
-![2018 Stock Analysis Timer](stock-analysis/Resources/VBA_Challenge_2018.png)
+![2017 Stock Analysis Timer](Resources/VBA_Challenge_2017.png)
+![2018 Stock Analysis Timer](Resources/VBA_Challenge_2018.png)
